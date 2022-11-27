@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "parcel": "^2.8.0",
+    "sass": "^1.56.1"
+  }
+}
